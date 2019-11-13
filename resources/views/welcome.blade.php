@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Zorros
+                    Zorros Privativos Comunes
                 </div>
 
                 <div class="links">
